@@ -1,0 +1,22 @@
+---
+HomePage:
+  dec: 主界面
+  locators:
+    -
+      name: 登录入口
+      type: id
+      value: com.hhly.community:id/bottom_item4_tv
+    -
+      name: 取消升级
+      type: id
+      value: com.hhly.community:id/cancel_update
+    -
+      name: 确认升级
+      type: id
+      value: com.hhly.community:id/ok_update
+    -
+      name: 我的
+      type: class
+      value: android.widget.Button
+
+

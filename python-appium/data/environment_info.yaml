@@ -1,0 +1,14 @@
+!EnvironmentInfo
+apk: E:\leixy627\python-appium/apk/qiumiao-trelease-v2.1.2.1009.apk
+app_activity: com.hhly.community.ui.welcome.WelcomeActivity
+app_package: com.hhly.community
+appium: v1.4.0
+devices:
+- !DeviceInfo
+  device_name: fd41c6ba
+  platform_name: Android
+  platform_version: "adb server is out of date.  killing...\r\n* daemon started successfully\
+    \ *\r\n6.0.1"
+html_report: E:\leixy627\python-appium/report/html
+pages_yaml: E:\leixy627\python-appium/page/yaml
+xml_report: E:\leixy627\python-appium/report/xml

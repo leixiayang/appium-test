@@ -1,0 +1,16 @@
+---
+LoginPage:
+  dec: 登录页面
+  locators:
+    -
+      name: 账户
+      type: id
+      value: com.hhly.community:id/et_account_login
+    -
+      name: 密码
+      type: id
+      value: com.hhly.community:id/et_input_password
+    -
+      name: 登录
+      type: id
+      value: com.hhly.community:id/bt_login

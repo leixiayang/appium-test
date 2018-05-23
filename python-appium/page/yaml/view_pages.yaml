@@ -1,0 +1,19 @@
+---
+View_pages:
+  dec: 广告页
+  locators:
+    -
+      name: 滑动广告页
+      type: id
+      value: com.grandale.uo:id/btn_my
+
+    -
+      name: 三星手机允许权限
+      type: id
+      value: com.android.packageinstaller:id/permission_allow_button
+    -
+      name: 立即体验
+      type: id
+      value: com.hhly.community:id/btn_enter
+
+
